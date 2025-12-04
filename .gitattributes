@@ -1,0 +1,3 @@
+cat > .gitattributes << 'EOF'
+cron/2fa-cron text eol=lf
+EOF
