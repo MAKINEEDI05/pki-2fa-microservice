@@ -1,6 +1,0 @@
-fastapi==0.104.1
-uvicorn==0.24.0
-cryptography==41.0.7
-pyotp==2.9.0
-python-dateutil==2.8.2
-requests==2.31.0
